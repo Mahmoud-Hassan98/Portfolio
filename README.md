@@ -3,7 +3,7 @@ This Repository Contains my Portfolio, Which is created to Represent my experian
 
 I used HTML, CSS with minimum Bootstrap for this project, I emphasized more on The CSS and tried to use as much advanced featuers as I can.
 
-what are the tools you used to create it?
+The tools are
 
 * vs code
 * figma
